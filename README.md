@@ -4,7 +4,7 @@ Code for "Predicting High Magnification Events in Microlensed Quasars in the Era
 " [[arXiv]](https://arxiv.org/abs/2409.08999). Here we train a recurrent neural network to predict the onset of high magnification events in microlensed quasar light curves through real time classification. Our method is applicable to predicting any events or transients in irregularly smapled, multivariate time series.
 
 <p align="center">
-  <img width="750" src="assets/example_output.png">
+  <img width="750" src="example_output.png">
 </p>
 
 
