@@ -1,1 +1,7 @@
-
+numpy
+matplotlib
+seaborn
+astropy
+torch
+tqdm
+sklearn
